@@ -10,21 +10,21 @@ This course prepares students to address the concepts of personnel development a
 
 ## Topics and Objectives
 
-- Employment Law
+- [Employment Law](Week1_EmploymentLaw)
   - Identify applicable employment laws in business situations.
   - Determine compliance with employment laws.
   - Identify consequences of noncompliance with employment laws.
--Compensation and Benefits Strategies
+-[Compensation and Benefits Strategies](Week2_Compensation)
   - Determine pay strategies.
   - Determine benefit plan strategies.
-- Performance Management
+- [Performance Management](Week3_Performance)
   - Develop performance management plans.
-- Employee Training and Development
+- [Employee Training and Development](Week4_Training)
   - Design a training needs assessment.
   - Select training methods.
   - Determine strategies to evaluate training.
-- Recruitment and Selection Strategies
+- [Recruitment and Selection Strategies](Week5_Recruitment)
   - Determine recruitment strategies.
   - Determine selection strategies.
-Diversity
+- [Diversity](Week6_Diversity)
   - Analyze the impact of organizational diversity on human capital management.
