@@ -2,6 +2,8 @@
 
 Discussions and Essays from second course in the University of Phoenix MBA program.
 
+This course was taken between `09/01/2015 to 10/12/2015`.
+
 ## Course Description
 
 This course prepares students to address the concepts of personnel development as managers. Students learn criteria for developing effective job analysis, appraisal systems, and appropriate career development plans for employees. Other topics include personnel selection, employee compensation, benefits, training, workplace diversity, discipline, employee rights, unions, and management behaviors.
