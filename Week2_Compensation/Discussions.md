@@ -46,7 +46,7 @@ From the childish perspective I want to switch groups and say that's not fair. T
 
 Ultimately should it matter? No, does it yes.
 
-## Should company's buy their employees receive long term disability benefits
+## Should company's buy their employees long term disability benefits
 
 Everyone should have long term disability insurance, its really cheap and if you get the chance to use then you'll get up to 60% pay for up to the remainder of your career. Assuming 20% of the people do collect, its slightly more expensive than a state lottery ticket and approximately 10000% more likely to pay out.
 
